@@ -1,3 +1,11 @@
 # UTOR-CBTCMP-HOMEWORK10
 
-https://git.heroku.com/tranquil-thicket-24717.git
+
+
+
+Note taker has been ceated and deployed in heroku with the link as follows
+https://tranquil-thicket-24717.herokuapp.com/
+
+
+
+![Website Portfolio](./assets/Portfolio.png)
