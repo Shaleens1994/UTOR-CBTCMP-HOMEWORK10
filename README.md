@@ -8,4 +8,4 @@ https://tranquil-thicket-24717.herokuapp.com/
 
 
 
-![Website Portfolio](./assets/Portfolio.png)
+![Note Taker](./assets/Portfolio.png)
